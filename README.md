@@ -18,10 +18,12 @@ The project was developed as part of a Python programming course and focuses on 
 
 ## Project Structure
 
+```bash
 .
 ├── main.py        # Main program and menu logic
 ├── analyzer.py    # Functions for text analysis
 └── *.txt          # Text files used for analysis
+```
 
 ## How to Run
 
